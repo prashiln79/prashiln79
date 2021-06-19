@@ -1,12 +1,13 @@
-<img align="center" width="550" src="https://github.com/prashiln79/prashiln79/blob/main/graphic.svg">
+<div align="center"><img  width="550" src="https://github.com/prashiln79/prashiln79/blob/main/graphic.svg"></div>
 <h1 align="center">Hi 👋, I'm Prashil</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
 
-
-- 🔭 I’m currently working on **VSPlus**
-- 🌱 I’m currently learning ML
-- 📫 How to reach me: [📧](mailto:wadkarprashil@gmail.com)
+<div align="center">
+- 🔭 I’m currently working on <a href="https://prashiln79.github.io/VSPLus/">**VSPlus**</a><br>
+- 🌱 I’m currently learning ML<br>
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/prashiln79">🌈</a><br>
+</div>
 
 
 
