@@ -1,4 +1,4 @@
-<img width="550" src="https://github.com/prashiln79/prashiln79/blob/main/graphic.svg">
+<img align="center" width="550" src="https://github.com/prashiln79/prashiln79/blob/main/graphic.svg">
 <h1 align="center">Hi 👋, I'm Prashil</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
