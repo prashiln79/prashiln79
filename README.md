@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on <a href="https://prashiln79.github.io/VSPLus/">**VSPlus**</a><br>
 - 🌱 I’m currently learning ML<br>
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/prashiln79">🌈</a><br>
-:scroll: Portfolio https://prashiln79.github.io/my-portfolio/
+:scroll: <a href="https://prashiln79.github.io/my-portfolio/">Portfolio</a> 
 </div>
 
 
