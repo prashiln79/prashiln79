@@ -3,17 +3,15 @@
 <h3 align="center">A passionate full stack developer from India</h3>
 <br>
 <div align="center">
+<img  width="50" src="https://github.com/prashiln79/prashiln79/blob/main/angular.png">
 <img  width="50" src="https://github.com/prashiln79/prashiln79/blob/main/java.png">
 <img  width="50" src="https://github.com/prashiln79/prashiln79/blob/main/node.png">
-<img  width="50" src="https://github.com/prashiln79/prashiln79/blob/main/angular.png">
+
 </div>
-<br>
-<br>
+ <h3 align="center"> <a href="https://prashiln79.github.io/my-portfolio/">Portfolio</a> </h3>
+
 <div align="center">
-- 🔭 I’m currently working on <a href="https://prashiln79.github.io/VSPLus/">**VSPlus**</a><br>
-- 🌱 I’m currently learning ML<br>
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/prashiln79">🌈</a><br>
-:scroll: <a href="https://prashiln79.github.io/my-portfolio/">Portfolio</a> 
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/prashiln79"><img  width="10" src="https://github.com/prashiln79/prashiln79/blob/main/ln.png"></a><br>
 </div>
 
 Most Worked
