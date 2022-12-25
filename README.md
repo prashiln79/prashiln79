@@ -11,7 +11,7 @@
  <h3 align="center"> <a href="https://prashiln79.github.io/my-portfolio/">Portfolio</a> </h3>
 
 <div align="center">
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/prashiln79"><img  width="10" src="https://github.com/prashiln79/prashiln79/blob/main/ln.png"></a><br>
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/prashiln79"><img  width="15" src="https://github.com/prashiln79/prashiln79/blob/main/ln.png"></a><br>
 </div>
 
 Most Worked
