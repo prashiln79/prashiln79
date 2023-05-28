@@ -14,6 +14,5 @@
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/prashiln79"><img  width="15" src="https://github.com/prashiln79/prashiln79/blob/main/ln.png"></a><br>
 </div>
 
-Most Worked
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prashiln79&label=Profile%20views&color=0e75b6&style=flat" alt="prashiln79" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=prashiln79&label=Profile%20views&color=0e75b6&style=flat" alt="prashiln79" /> </p>
