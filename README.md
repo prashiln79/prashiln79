@@ -17,7 +17,3 @@
 Most Worked
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prashiln79&label=Profile%20views&color=0e75b6&style=flat" alt="prashiln79" /> </p>
-
-<a href="https://makers.appwrite.io/Prashiln79">
-    <img src="https://appwrite.io/cards/makers/Prashiln79" alt="Prashiln79's Maker Card" />
-</a>
